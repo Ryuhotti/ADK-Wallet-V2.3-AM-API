@@ -1,4 +1,4 @@
-# adkwallet-gui - Desktop Wallet for ADK ( mainnet v2.3 2023 release )
+Desktop Wallet for ADK ( mainnet v2.3 2023 release ) with Aidos Market API Integration
 
 <b>adkwallet-gui</b> is the desktop wallet for ADK / v2.3 mainnet - 2023 release
 
