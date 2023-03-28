@@ -23,13 +23,10 @@ java -jar adkwallet-gui.jar
 
 # Downloads:
 
-The GUI (executable JAR - Java frontend for the CLI application):
-[https://github.com/AidosKuneen/adkwallet-gui/releases/tag/v2.1.0]
+The GUI (executable JAR - Java frontend for the CLI application, bundles include the CLI wallet):
+[https://github.com/AidosKuneen/ADK-Wallet-V2.3-AM-API/releases/tag/2.3.1]
 
-The CLI (adkwallet-cli executable) - which is a requirement (has to be in the same directory as the GUI jar):
-[https://github.com/AidosKuneen/adkwallet-cli/releases/tag/v2.1.0] 
-
-Simply download the GUI jar, and then the correct CLI for your operating system (Windows or OSX or Linux). Make sure both files are in the same directory.
+Simply download the GUI bundle for your operating system (Windows or OSX or Linux) and make sure you unpack all files into the same directory. Note that for macOS you may have to set execute privileges to the CLI wallet via command "chmod 755 adkwallet_cli"
 
 
 
