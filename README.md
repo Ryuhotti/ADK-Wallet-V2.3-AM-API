@@ -1,4 +1,4 @@
-# Desktop Wallet for ADK ( mainnet v2.3 2023 release ), with Aidos Market API Integration
+# ADK v2.3 GUI Wallet (Java Dev Version), supports FCC token and akBTC, with Aidos Market Integration
 
 <b>adkwallet-gui</b> is the desktop wallet for ADK / v2.3 mainnet - 2023 release
 
